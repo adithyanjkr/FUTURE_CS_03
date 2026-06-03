@@ -14,9 +14,9 @@
 
 ## Tools Used
 
-* **Kali Linux:**
-* **Postman:**
-* **Browser Developer Tools:**
+* **Kali Linux**
+* **Postman**
+* **Browser Developer Tools**
 
 ## Project Files
 
