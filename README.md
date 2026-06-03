@@ -16,8 +16,8 @@
 * **Browser DevTools:** Used for inspecting **web traffic** and background **network activity**.
 
 ## 📂 Project Files
-* 📄 **Report:** `API_Security_Analysis_Report_Flowing.docx` — The **full analysis document**.
-* 📸 **Evidence:** Verified **screenshots** of endpoints, data payloads, and system headers.
+* **Report:** The **full analysis document**.
+* **Evidence:** Verified **screenshots** of endpoints, data payloads, and system headers.
 
 ## 🔍 Found Risks
 * 🔴 **High:** Flaws that let users **guess URLs** to view other people's **private data**.
