@@ -11,9 +11,9 @@
 * **Core Focus:** Checking **authentication**, **data exposure**, and **input validation** layers.
 
 ## 🛠️ Tools Used
-* **Kali Linux:** The primary **operating system** environment for security testing.
-* **Postman:** Used for analyzing **API endpoints**, **data responses**, and **system headers**.
-* **Browser DevTools:** Used for inspecting **web traffic** and background **network activity**.
+* **Kali Linux:**
+* **Postman:**
+* **Browser Developer Tools:**
 
 ## 📂 Project Files
 * **Report:** The **full analysis document**.
