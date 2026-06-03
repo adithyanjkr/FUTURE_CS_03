@@ -25,9 +25,9 @@
 
 ## 🔍 Found Risks
 
-* 🔴 **High:** Flaws that let users **guess URLs** to view other people's **private data**.
-* 🟡 **Medium:** System loops that **leak whole user lists** or accept **messy, broken inputs**.
-* 🟢 **Low:** **High traffic limits** and background headers that **reveal software names**.
+* **High:** Flaws that let users **guess URLs** to view other people's **private data**.
+* **Medium:** System loops that **leak whole user lists** or accept **messy, broken inputs**.
+* **Low:** **High traffic limits** and background headers that **reveal software names**.
 
 ## 👤 Author
 
